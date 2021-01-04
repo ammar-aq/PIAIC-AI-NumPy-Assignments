@@ -1,2 +1,2 @@
-# PIAIC-AI-NumPy-Assignments
-PIAIC-AI-NumPy-Assignments
+# PIAIC109015-AI-Numpy-Assignments
+PIAIC109015-AI-Numpy-Assignments
